@@ -1,0 +1,14 @@
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities And Studies.csprojAssemblyReference.cache
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities_And_Studies.Made_selection.resources
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities_And_Studies.Properties.Resources.resources
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities And Studies.csproj.GenerateResource.cache
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\bin\Debug\Universities And Studies.exe.config
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\bin\Debug\Universities And Studies.exe
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\bin\Debug\Universities And Studies.pdb
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities And Studies.exe
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities And Studies.pdb
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities_And_Studies.Choose_of_the_qualities.resources
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities_And_Studies.Choose_Of_Student_Negative_Qualities.resources
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities_And_Studies.Choose_Of_Student_Qualities.resources
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities_And_Studies.ShowUniversity.resources
+C:\Users\Илья\source\repos\Universities And Studies\Universities And Studies\obj\Debug\Universities_And_Studies.Univer.ShowStud.resources
